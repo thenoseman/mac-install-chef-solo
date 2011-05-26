@@ -1,1 +1,27 @@
 My try at installing a fresh mac with "chef solo"
+
+=== TODO ===
+
+- Cuppa (http://www.nathanatos.com/software/downloads/Cuppa.zip)
+- Audio Switcher (http://www.spikesoft.net/downloads/audioswitcher-1.5.1.dmg)
+- BOINC (http://boinc.berkeley.edu/dl/boinc_6.12.26_macOSX_universal.zip)
+- Dropbox (https://www.dropbox.com/download?plat=mac)
+- Skype (http://www.skype.com/go/getskype-macosx.dmg)
+- MacVim (https://github.com/downloads/b4winckler/macvim/MacVim-snapshot-57.tbz ; oder "brew install macvim")
+- Chrome (via http://www.google.com/chrome/intl/en/eula_beta.html?dl=mac)
+- Charles (http://www.charlesproxy.com/assets/release/3.6/charles-proxy-3_6b1.zip?r=0.23271571999516827)
+- The Unarchiver (http://theunarchiver.googlecode.com/files/TheUnarchiver2.7.1.zip)
+- InstantShot! (http://projects.digitalwaters.net/projects/InstantShot/InstantShot%202.5.dmg)
+- Perian (http://perian.cachefly.net/Perian_1.2.2.dmg)
+- Growl (http://growl.cachefly.net/Growl-1.2.2.dmg)
+- KeePassX (http://sourceforge.net/projects/keepassx/files/KeePassX/0.4.3/KeePassX-0.4.3.dmg/download)
+- Psst (http://www.satsumac.com/Download.php?product=Psst)
+- SquirrelSQL (http://sourceforge.net/projects/squirrel-sql/files/1-stable/3.2.1/squirrel-sql-3.2.1-MacOSX-install.jar/download)
+- VLC (http://sourceforge.net/projects/vlc/files/1.1.9/macosx/vlc-1.1.9-intel64.dmg/download)
+- VirtualBox (http://download.virtualbox.org/virtualbox/4.0.8/VirtualBox-4.0.8-71778-OSX.dmg)
+- iTerm2 (http://code.google.com/p/iterm2/downloads/detail?name=iTerm2-beta1.zip&can=2&q=)
+- rvm ("bash < <(curl -s https://rvm.beginrescueend.com/install/rvm)")
+- homebrew (ruby -e "$(curl -fsSL https://gist.github.com/raw/323731/install_homebrew.rb)")
+- ack (brew install ack)
+- zsh (brew install zsh)
+- Inconsolata DZ (http://media.nodnod.net/Inconsolata-dz.otf.zip)
